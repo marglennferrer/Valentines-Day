@@ -39,7 +39,7 @@ export default function Page() {
         {yesPressed ? (
           <>
             <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-            <div className="text-container">Ok yay!!!</div>
+            <div className="text-container">My Alliah will never be in competition with another girl. i don't care what you look like, what you have, or who you are. my girl will always be the most prettiest girl in my eyes😘</div>
           </>
         ) : (
           <>
